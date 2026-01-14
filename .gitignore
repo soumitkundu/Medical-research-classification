@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+venv.bak/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtualenv
+venv/
+ENV/
+env/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Data and models
+data/
+datasets/
+models/
+outputs/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.pem
