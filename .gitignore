@@ -1,22 +1,11 @@
 # Python
 __pycache__/
-*.py[cod]
-*.so
-.Python
-env/
-venv/
-ENV/
-venv.bak/
-build/
-dist/
 
 # Jupyter
 .ipynb_checkpoints
 
 # Virtualenv
-venv/
-ENV/
-env/
+.venv/
 
 # PyCharm
 .idea/
@@ -26,8 +15,6 @@ env/
 
 # Data and models
 data/
-datasets/
-models/
 outputs/
 
 # Logs
